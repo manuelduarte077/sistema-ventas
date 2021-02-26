@@ -1,4 +1,4 @@
 # Datos
 
-user: admin <br/>
+user: thanos <br/>
 pass: admin
