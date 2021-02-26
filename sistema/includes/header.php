@@ -58,7 +58,7 @@ if ($result_data > 0) {
     -->
 			<div class="logo">
 				<a href="index.php" class="simple-text logo-mini">
-					V - I
+					SV
 				</a>
 				<a href="index.php" class="simple-text logo-normal">
 					Shop
